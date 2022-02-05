@@ -8,6 +8,11 @@ La partie front de mes projets son realisée avec Bootstrap et Twig .
 afin de pouvoir me connecter sur les APIs mises en place sur chaque projet.  
 
 ------------------  
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way)](https://github.com/QUENTINBenoit/Tech_A_Way)
+
+
+------------------  
 <!--
 **QUENTINBenoit/QUENTINBenoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
