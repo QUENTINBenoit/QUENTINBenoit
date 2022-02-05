@@ -9,7 +9,9 @@ afin de pouvoir me connecter sur les APIs mises en place sur chaque projet.
 
 ------------------  
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way&show_owner&langs_count=4)](https://techaway.fr)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way&show_owner&langs_count=8&layout=compact)](https://techaway.fr)
+
 
 
 ------------------  
@@ -19,3 +21,5 @@ github.com/QUENTINBenoit/Tech_A_Way)
 -->
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=QUENTINBenoit&count_private=true&show_icons=true&theme=city_lights&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
