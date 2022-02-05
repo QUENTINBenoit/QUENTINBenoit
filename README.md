@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hello  Moi c'est Benoit👋
+-------------  
 
+Je suis développeur PHP/Symfony suite a une formation que j'ai suivie en 2021
+ci dessous quelques projets que j'ai realisé . 
+Actuellement je me forme sur ReactJS pour réaliser un front de mes applications. 
+La partie front de mes projets son realisée avec Bootstrap et Twig .
+afin de pouvoir me connecter sur les APIs mises en place sur chaque projet.  
+
+------------------  
 <!--
 **QUENTINBenoit/QUENTINBenoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=QUENTINBenoit)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=QUENTINBenoit&count_private=true&show_icons=true&theme=city_lights&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
