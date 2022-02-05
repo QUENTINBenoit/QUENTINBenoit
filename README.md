@@ -9,7 +9,7 @@ afin de pouvoir me connecter sur les APIs mises en place sur chaque projet.
 
 ------------------  
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way)](https://techaway.fr)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way&show_owner&langs_count=4)](https://techaway.fr)
 
 
 ------------------  
