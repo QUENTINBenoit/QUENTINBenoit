@@ -10,9 +10,11 @@ Acteullement je me forme en autodidacte sur ReactJS,  car j'ai l'intention de r√
 ------------------  
 
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way&show_owner&langs_count=8&layout=compact)](https://techaway.fr)
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Responsive-TP&show_owner&langs_count=8&layout=compact)](https://github.com/QUENTINBenoit/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way&show_owner&langs_count=8&layout=compact)](https://techaway.fr)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Responsive-TP)
+
+
 
 ------------------  
 <!--
