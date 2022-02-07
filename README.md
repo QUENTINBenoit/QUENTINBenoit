@@ -14,17 +14,25 @@ Acteullement je me forme en autodidacte sur ReactJS,  car j'ai l'intention de r�
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way&langs_count=8&layout=compact)](https://techaway.fr)
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Responsive-TP&langs_count=8&layout=compact)](https://github.com/QUENTINBenoit/Responsive-TP)
 
-
-------------------  
+---------------------
 <!--
 **QUENTINBenoit/QUENTINBenoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 github.com/QUENTINBenoit/Tech_A_Way)
 -->
 
+
 [![Les Stats GitHub de QUENTINBenoit](https://github-readme-stats.vercel.app/api?username=QUENTINBenoit&count_private=true&show_icons=true&theme=city_lights&show_icons=true)](https://github.com/QUENTINBenoit/github-readme-stats)
 
 
+
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=QUENTINBenoit.visitor-badge&left_color=red&right_color=green) 
+
+
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
