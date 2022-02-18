@@ -4,7 +4,7 @@
 Je suis développeur PHP/Symfony,   
 Ci dessous quelques projets que j'ai realisé.   
 La partie front de mes projets sont realisée avec Bootstrap et Twig.  
-Acteullement je me forme en autodidacte sur ReactJS,  car j'ai l'intention de réaliser le front de mes applications via une API, 
+Actuellement je me forme en autodidacte sur ReactJS,  car j'ai l'intention de réaliser le front de mes applications via une API, 
 
 
 ------------------  
