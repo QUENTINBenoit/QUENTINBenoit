@@ -1,10 +1,12 @@
 ### Hello  Moi c'est Benoit👋
 -------------  
 
-Je suis développeur PHP/Symfony,   
-Ci dessous quelques projets que j'ai realisé.   
-La partie front de mes projets sont realisée avec Bootstrap et Twig.  
-Actuellement je me forme en autodidacte sur ReactJS,  car j'ai l'intention de réaliser le front de mes applications via une API, 
+Je suis développeur PHP/Symfony,
+Ci-dessous quelques projets que j'ai réalisés.  
+La partie front de mes projets est réalisée avec Bootstrap et Twig.
+Actuellement,je travaille sur la réalisation d'une application front en ReactJs afin de pouvoir consommer l'API 
+que j’ai réalisé sur mon projet Bflix/symfony.
+ 
 
 
 ------------------  
