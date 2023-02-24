@@ -2,7 +2,7 @@
 -------------  
 
 
-Issu d’une formation de Développeur Web au sein de l’école O’clock, sur le filiere PHP/Symfony.
+Issu d’une formation de Développeur Web au sein de l’école O’clock, sur la filiere PHP/Symfony.
 
 Je souhaite poursuivre ma reconversion professionnelle en tant que concepteur développeur d’application JAVA fullstack.
 Je recherche activement une entreprise en alternance pour m’accueillir.
