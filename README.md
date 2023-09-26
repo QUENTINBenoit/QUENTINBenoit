@@ -2,12 +2,9 @@
 -------------  
 
 
-Issu d’une formation de Développeur Web au sein de l’école O’clock, sur la filiere PHP/Symfony.
+Bienvenue dans mon univers: 
+php / Symfony / JS / Vue.js/ TialwindCss / Linux / 
 
-Je souhaite poursuivre ma reconversion professionnelle en tant que concepteur développeur d’application JAVA fullstack.
-Je recherche activement une entreprise en alternance pour m’accueillir.
-
-Ci-dessous quelques projets que j'ai réalisés.
 
 
  
