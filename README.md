@@ -1,9 +1,15 @@
 ### Hello  Moi c'est Benoit👋
 -------------  
 
+Passionné par le Web et les nouvelles technologies,
+
+Je conçois et réalise des applications Web
+
+Actuellement en Recherche alternance reconditionnement inforamtique 
+
 
 Bienvenue dans mon univers: 
-php / Symfony / JS / Vue.js/ TialwindCss / Linux / 
+php / Symfony / TialwindCss / Linux / 
 
 
 
@@ -14,7 +20,7 @@ php / Symfony / JS / Vue.js/ TialwindCss / Linux /
 
 
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Tech_A_Way&langs_count=8&layout=compact)](https://techaway.fr)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=BeStudio&langs_count=8&layout=compact)](https://bestudio.fr)
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Responsive-TP&langs_count=8&layout=compact)](https://github.com/QUENTINBenoit/Responsive-TP)
 
 ---------------------
