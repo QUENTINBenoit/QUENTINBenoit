@@ -22,7 +22,7 @@ php / Symfony / TialwindCss / Linux /
 
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=BeStudio&langs_count=8&layout=compact)](https://bestudio.fr)
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=B-bikes-e&langs_count=8&layout=compact)](https://www.bbikese.bestudio.fr/)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=Responsive-TP&langs_count=8&layout=compact)](https://github.com/QUENTINBenoit/Responsive-TP)
+
 
 ---------------------
 <!--
