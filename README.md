@@ -1,13 +1,6 @@
 ### Hello  Moi c'est Benoit👋
 -------------  
 
-Passionné par le Web et les nouvelles technologies,
-
-Je conçois et réalise des applications Web
-
-Actuellement en Recherche alternance reconditionnement inforamtique 
-
-
 Bienvenue dans mon univers: 
 php / Symfony / TialwindCss / Linux / 
 
