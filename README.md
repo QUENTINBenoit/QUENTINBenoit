@@ -13,8 +13,7 @@ php / Symfony / TialwindCss / Linux /
 
 
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=BeStudio&langs_count=8&layout=compact)](https://bestudio.fr)
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=QUENTINBenoit&repo=B-bikes-e&langs_count=8&layout=compact)](https://www.bbikese.bestudio.fr/)
+
 
 
 ---------------------
@@ -24,12 +23,8 @@ github.com/QUENTINBenoit/Tech_A_Way)
 -->
 
 
-[![Les Stats GitHub de QUENTINBenoit](https://github-readme-stats.vercel.app/api?username=QUENTINBenoit&count_private=true&show_icons=true&theme=city_lights&show_icons=true)](https://github.com/QUENTINBenoit/github-readme-stats)
 
 
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=QUENTINBenoit.visitor-badge&left_color=red&right_color=green) 
 
 
 
